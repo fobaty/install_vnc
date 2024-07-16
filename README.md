@@ -19,7 +19,7 @@ This repository contains a script to automatically install and configure VNC on 
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/YOUR_USERNAME/vnc-installation-script.git
+    git clone https://github.com/fobaty/vnc-installation-script.git
     cd vnc-installation-script
     ```
 
